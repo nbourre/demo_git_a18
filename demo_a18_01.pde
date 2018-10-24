@@ -11,6 +11,7 @@ void setup () {
   
   b = new Balle();
   b.velocity = new PVector (1, 1);
+  
 }
 
 void draw () {
